@@ -1,0 +1,5 @@
+﻿  BST.cpp
+  Implementation.cpp
+  Generating Code...
+C:\Users\muham\source\repos\DSA sem Proj\DSA sem Proj\Implementation.cpp(336): warning C4715: 'CoronaManagementSystem::load_fromfile_to_Dlist': not all control paths return a value
+  DSA sem Proj.vcxproj -> C:\Users\muham\source\repos\DSA sem Proj\Debug\DSA sem Proj.exe
